@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ModelPrintLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ModelPrintLib.'
+  s.summary          = '1.根据参数快速打印出Model'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

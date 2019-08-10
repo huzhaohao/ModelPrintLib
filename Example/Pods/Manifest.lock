@@ -1,0 +1,16 @@
+PODS:
+  - ModelPrintLib (0.1.0)
+
+DEPENDENCIES:
+  - ModelPrintLib (from `../`)
+
+EXTERNAL SOURCES:
+  ModelPrintLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModelPrintLib: dfb7991fc6a55ab9d5425f6b76bf2c21ec667187
+
+PODFILE CHECKSUM: d302072ef7386fef50283a377ec6e1810e4671f7
+
+COCOAPODS: 1.7.5

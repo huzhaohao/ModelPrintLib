@@ -1,0 +1,6 @@
+framework module ModelPrintLib {
+  umbrella header "ModelPrintLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
